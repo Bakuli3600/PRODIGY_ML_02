@@ -10,6 +10,10 @@ This Python implementation uses the K-means clustering algorithm to group retail
 
 *********************************************************************
 
+![image](https://github.com/user-attachments/assets/1af28a08-90ed-4f74-b45e-ad138157e628)
+
+*********************************************************************
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/AMf8cmQUJs) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tapabrata.bakuli.37) 
